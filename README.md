@@ -1,8 +1,10 @@
 ## Hi there!, I'm Tiago 👋
 
-I am from a small town in the south of Portugal, I studied Chemical Engineering, Industrial Management and Systems Engineering.
+I am from a small town in the south of **Portugal**, I studied **Chemical Engineering**, **Industrial Management** and **Systems Engineering**.
 
-This is my repository where I keep some of what I have learned and where I do my experiments with what I want to learn.
+This is my repository where I will keep some of what I have learned and some of my experiments. My idea is to store and share knowledge not necessary code.
+
+
 
 
 <!--
