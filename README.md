@@ -6,6 +6,7 @@ This is my repository where I will keep some of what I have learned and some of 
 
 ## Some curiosities about me:
 🔬 I’m currently working on APIs management
+
 🌱 I’m currently learning DS and ML 
 🎓 I have a degree in chemical engineering (ISEL, Lisbon), a master's degree in industrial management (ISEL, Lisbon) and a postgraduate degree in information systems (IST, Lisbon).
 🔧 I have worker in a petrochemical company before joinned to IT.  
