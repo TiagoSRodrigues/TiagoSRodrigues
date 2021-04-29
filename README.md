@@ -8,7 +8,7 @@ This is my repository where I will keep some of what I have learned and some of 
 🔬 I’m currently working on APIs management.  
 🌱 I’m currently learning DS and ML.  
 📚 I've a bachelor in chemical engineering (ISEL, Lisbon).
-🎓 I've a master's degree in industrial management (ISEL, Lisbon) (Ok, i'm still finishing the dissertation 😅). 
+🎓 I've a master's degree in industrial management (ISEL, Lisbon) (Ok, i'm still finishing the dissertation 😅).   
 💻 I've a postgraduate degree in information systems (IST, Lisbon).   
 🔧 I have worker in a petrochemical company before joinned to IT.   
 🤓 I'm very interested in economy, good management and efficiency improvement.  
