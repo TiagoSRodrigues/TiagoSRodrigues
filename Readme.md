@@ -13,6 +13,7 @@ This is my repository where I will keep some of what I have learned and some of 
 🔧 I have worker in a petrochemical company before joinned to IT.   
 🤓 I'm very interested in economy, good management and efficiency improvement.  
 🔭 I want to learn more about blockchain, I think that is a perfect tool to drive and economy with great performance improvements. 
+- 📫 How to reach me: Use my linkedin :) 
 
 <!--
 **TiagoSRodrigues/TiagoSRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
